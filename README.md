@@ -1,2 +1,3 @@
-# HR-Analytics-Workforce-Trends-and-Decision-Support-System
-This project helps HR teams analyze employee data and identify employees who may leave the organization. By entering an Employee ID, HR managers can quickly see the employee’s work details and risk level.
+This project is an HRIS-based Workforce Analytics system that analyzes employee data using Employee ID as a unique identifier to generate actionable HR insights. It helps HR teams understand workforce patterns, identify attrition risks, and retrieve complete employee-level details through a lookup feature, simulating a real-world HR Information System.
+
+The system applies data preprocessing, attrition risk classification, and workforce analysis to support data-driven HR decisions. By linking employee attributes such as tenure, job satisfaction, income, and performance, the project demonstrates how HR analytics can improve retention strategies, workforce planning, and organizational effectiveness.
